@@ -1,5 +1,15 @@
 #!/usr/bin/python3
-str = "Python is an interpreted, interactive, object-oriented programming\
-        language that combines remarkable power with very clear syntax"
-str = str[39:67] + str[107:112] + str[:6]
-print(str)
+
+
+def magic_calculation(a, b):
+    """Match bytecode provided by Holberton School."""
+    from magic_calculation_102 import add, sub
+
+    if a < b:
+        c = add(a, b)
+        for i in range(4, 6):
+            c = add(c, i)
+        return (c)
+
+    else:
+        return(sub(a, b))
