@@ -13,27 +13,6 @@ class Rectangle:
 
         Args:
             width: the width of the rectangle.
-            height: the height of the rectangle.
-        """
-#!/usr/bin/python3
-
-"""
-#!/usr/bin/python3
-
-"""
-Define a class Rectangle that defines a rectangle
-"""
-#!/usr/bin/python3
-
-"""
-Define a class Rectangle that defines a rectangle
-#!/usr/bin/python3
-
-"""
-#!/usr/bin/python3
-
-"""
-Define a class Rectangle that defines a rectangle
 #!/usr/bin/python3
 
 """
